@@ -7,9 +7,10 @@ Reference : https://arxiv.org/pdf/1604.02878.pdf
 Face Recognition : The face Recognition is done using Facenet model. Used a pretrained facenet model to compare the captured image/Input image with all images in database to recognize the correct face using clustering algorithm.
 Reference : https://arxiv.org/pdf/1503.03832.pdf
 
-MTCNN Pretrained Model Installation: Follow link -https://github.com/ipazc/mtcnn                                        FaceNet Pretrained Model : https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk
+1. MTCNN Pretrained Model : Follow link -https://github.com/ipazc/mtcnn. 
+2. FaceNet Pretrained Model :https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk
  
-Dependency :
+Dependency : 
  1. Python 3.6
  2. tensorflow r1.12 or above 
  3. OpenCV 4.1.1 or above
