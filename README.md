@@ -9,6 +9,7 @@ Reference : https://arxiv.org/pdf/1503.03832.pdf
 
 MTCNN Pretrained Model Installation: Follow link -https://github.com/ipazc/mtcnn
 FaceNet Pretrained Model Installation: Use Pretrained model in the link - https://github.com/arunmandal53/facematch
+Use Folders :20170512-110547 and 20180408-102900
  
 Dependency :
  1. Python 3.6
