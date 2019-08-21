@@ -29,8 +29,8 @@ Execution and Outputs:
  3. The image captured can be seen inside captured folder.
  4. The detected face with bounding box, cropped part of image and land mark detected images can be seen inside folder check.
 
-Warning :
+Note :
 1. Use the port number for the webcam according to Device Configration of your sytem.
-   (Edit :Face_Rec.py,  Line 14 , camera = cv2.VideoCapture(0)). 
+   (Edit :Face_Rec.py,  Line 14 , camera = cv2.VideoCapture(0)) 
 2. Use webcam with resolution greater than 640x480 for better accuracy.
          
