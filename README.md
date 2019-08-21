@@ -1,11 +1,11 @@
 # Webcam-based-Face-Recognition-using-Deep-Learning
 
 Face Detection and landmark detection : It is done using Multi-task Cascaded Convolutional Networks(MTCNN) model. Used a pretrained model of MTCNN to detect face, to find the bounding box and landmark detection.
-Reference : https://arxiv.org/pdf/1604.02878.pdf
-            https://github.com/ipazc/mtcnn
+      Reference : https://arxiv.org/pdf/1604.02878.pdf
+                  https://github.com/ipazc/mtcnn
 
 Face Recognition : The face Recognition is done using Facenet model. Used a pretrained facenet model to compare the captured image/Input image with all images in database to recognize the correct face using clustering algorithm.
-Reference : https://arxiv.org/pdf/1503.03832.pdf
+     Reference : https://arxiv.org/pdf/1503.03832.pdf
 
 1. MTCNN Pretrained Model : Follow link -https://github.com/ipazc/mtcnn. 
 2. FaceNet Pretrained Model :https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk
