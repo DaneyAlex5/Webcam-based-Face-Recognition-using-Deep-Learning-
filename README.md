@@ -16,7 +16,7 @@ Dependency :
  3. OpenCV 4.1.1 or above
 
 How to Run the Code :
- 1. Download and extract the code into a folder.
+ 1. Download and extract the folder Face_Recognition.zip into a folder.
  2. Download the pretrained model from the link given and place the files in the extracted folder in step 1.
  3. Create or Update the database by inserting images of the people among among which face recognition is to be done. After inserting all images, select all images and rename the images as :Person<Number>
     example :Person1,Person2 etc. Your database can be of any size, but speed of the code depends on size of database. 
